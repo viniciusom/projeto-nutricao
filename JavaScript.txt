@@ -1,0 +1,47 @@
+tipos primitivos {number, string, boolean,
+		  null, undefined, object, 
+		  NaN, infinity}
+
+conversão de tipos {parseTipo()}
+
+manipular funções matemáticas {Math.função()}
+
+operadores {+,-,*,/,%}
+
+operadores booleanos {&&, ||, !}
+
+variáveis {var(escopo global), let(escopo de bloco),
+	   const(escopo de bloco/não alterável)}
+
+Estruturas de repetição {while, do-while,
+			 for(igual Java)}
+
+Estruturas condicionais {if-else, switch
+			 (igual Java), 
+			 operador ternário (?)
+		var allowed = (age > 18) ? "yes" : "no"}
+
+Objetos ------------ (var obj = {}
+
+tabelas hash -------------
+
+Vetores {var a = ["dog", "cat", "hen"]
+	(crescem conforme necessário)}
+
+Funções {function add(x, y) {
+	     var total = x + y; 
+	     return total; 
+	 }
+
+DOM {interface que interage com elementos HTML}
+	(document.getElementById("elemento"))
+
+XML { 1id>
+	Alexandre Gamanome>
+ 	R. Qualquerendereco>
+
+JSON { modelo de representação de informações
+ 	{"id":1,"nome":"Alexandre Gama",
+	 "endereco":"R. Qualquer"} }
+
+AJAX {
